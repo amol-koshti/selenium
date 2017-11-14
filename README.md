@@ -1,5 +1,5 @@
 # selenium
-Download project and coonfigure into eclipse
+Download project .rar file and extract it on your machine and coonfigure it as a existing project into eclipse workspace
 go to package com.facebook.testCases and right cick on LoginTest.java file
 select Run as -> TestNG Test
 Once your test case got executed, you can see the report using file emailable-report.html
